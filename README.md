@@ -1,3 +1,4 @@
+Name - Yash Bedi
 # cloud-practical
 **2 Objective: Deploy a virtual machine on AWS using Amazon EC2.**
 
